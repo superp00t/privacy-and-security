@@ -32,6 +32,16 @@ Today, about 3 years after Snowden's first revelation of NSA's mass surveillance
 
 - Privacy Policy: https://duckduckgo.com/privacy
 
+### Disconnect
+
+- [Homepage](https://search.disconnect.me)
+
+- [Chrome Addon](https://chrome.google.com/webstore/detail/disconnect-search/hmobfennjmjnkdbklhcnnfbhfibedgkk?hl=en)
+
+- [Firefox Addon](https://addons.mozilla.org/addon/disconnect?src=external-product-icon)
+
+- [Privacy Policy](https://disconnect.me/privacy)
+
 ## End-to-End Encrypted Email (FOSS)
 
 ProtonMail is a free and web-based encrypted email service founded in 2013 at the CERN research facility by Jason Stockman, Andy Yen and Wei Sun. ProtonMail is designed as a zero-knowledge system, using client-side encryption to protect emails and user data before
@@ -106,7 +116,7 @@ LibreOffice is a free suite of apps for creating text documents, spreadsheets, p
 
 Download for Windows ([x86](https://www.libreoffice.org/download/libreoffice-fresh/?type=win-x86) | [x64](https://www.libreoffice.org/download/libreoffice-fresh/?type=win-x86_64))
 
-Download for Linux ([DEB x86](https://www.libreoffice.org/download/libreoffice-fresh/?type=deb-x86) | [DEB x64](https://www.libreoffice.org/download/libreoffice-fresh/?type=deb-x86_64) | 
+Download for Linux ([DEB x86](https://www.libreoffice.org/download/libreoffice-fresh/?type=deb-x86) | [DEB x64](https://www.libreoffice.org/download/libreoffice-fresh/?type=deb-x86_64) |
 [RPM x32](https://www.libreoffice.org/download/libreoffice-fresh/?type=rpm-x86) | [RPM x64](https://www.libreoffice.org/download/libreoffice-fresh/?type=rpm-x86_64))
 
 Download for Mac ([OSX 10.8+](https://www.libreoffice.org/download/libreoffice-fresh/?type=mac-x86_64))
