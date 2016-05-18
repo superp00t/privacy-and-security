@@ -108,16 +108,9 @@ Office Suite (FOSS)
 
 LibreOffice is a free suite of apps for creating text documents, spreadsheets, presentations, and more, which you can then save in Microsoft Office formats.
 
-Download for Windows (x86/32-Bit) : https://www.libreoffice.org/download/libreoffice-fresh/?type=win-x86
+Download for Windows ([x86](https://www.libreoffice.org/download/libreoffice-fresh/?type=win-x86) | [x64](https://www.libreoffice.org/download/libreoffice-fresh/?type=win-x86_64))
 
-Download for Windows (x64/64-Bit) : https://www.libreoffice.org/download/libreoffice-fresh/?type=win-x86_64
+Download for Linux ([DEB x86](https://www.libreoffice.org/download/libreoffice-fresh/?type=deb-x86) | [DEB x64](https://www.libreoffice.org/download/libreoffice-fresh/?type=deb-x86_64) | 
+[RPM x32](https://www.libreoffice.org/download/libreoffice-fresh/?type=rpm-x86) | [RPM x64](https://www.libreoffice.org/download/libreoffice-fresh/?type=rpm-x86_64))
 
-Download for Linux (x86/32-Bit DEB) : https://www.libreoffice.org/download/libreoffice-fresh/?type=deb-x86
-
-Download for Linux (x86/32-Bit RPM) : https://www.libreoffice.org/download/libreoffice-fresh/?type=rpm-x86
-
-Download for Linux (x64/64-Bit DEB) : https://www.libreoffice.org/download/libreoffice-fresh/?type=deb-x86_64
-
-Download for Linux (x64/64-Bit RPM) : https://www.libreoffice.org/download/libreoffice-fresh/?type=rpm-x86_64
-
-Download for Mac : https://www.libreoffice.org/download/libreoffice-fresh/?type=mac-x86_64 (10.8 or newer required)
+Download for Mac ([OSX 10.8+](https://www.libreoffice.org/download/libreoffice-fresh/?type=mac-x86_64))
