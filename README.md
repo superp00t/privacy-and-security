@@ -7,27 +7,11 @@
 Today, about 3 years after Snowden's first revelation of NSA's mass surveillance program, the breach of privacy is more apparent than ever before. However, it is not difficult to significantly decrease the impact that the NSA inflicts on you simply by changing a few of your internet habits.
 
 ## Search Engines
-### Startpage
 
-- Homepage : https://startpage.com
-
-- Firefox : https://addons.mozilla.org/firefox/addon/startpage-https-privacy-search
-
-- Chrome (see below)
-
-- Privacy Policy : https://startpage.com/eng/privacy-policy.html
-
-### DuckDuckGo
-
-- Homepage : https://duckduckgo.com
-
-- Firefox Addon : https://addons.mozilla.org/firefox/addon/duckduckgo-ssl
-
-- Firefox Addon (No JS) : https://addons.mozilla.org/firefox/addon/duckduckgo-html
-
-- Chrome (see below)
-
-- Privacy Policy: https://duckduckgo.com/privacy
+| Name       | Homepage               | Firefox Addon                                                                   | Privacy Policy |
+|------------|------------------------|---------------------------------------------------------------------------------|----------------|
+| Startpage  | https://startpage.com  | [Main](https://addons.mozilla.org/firefox/addon/startpage-https-privacy-search) | [Link](https://startpage.com/eng/privacy-policy.html)
+| DuckDuckGo | https://duckduckgo.com | [Main](https://addons.mozilla.org/firefox/addon/duckduckgo-ssl) / [No JS](https://addons.mozilla.org/firefox/addon/duckduckgo-html) | [Link](https://duckduckgo.com/privacy)
 
 ### Chrome Search Engine Settings
 
