@@ -8,10 +8,11 @@ Today, about 3 years after Snowden's first revelation of NSA's mass surveillance
 
 ## Search Engines
 
-| Name       | Homepage               | Firefox Addon                                                                   | Privacy Policy |
-|------------|------------------------|---------------------------------------------------------------------------------|----------------|
-| Startpage  | https://startpage.com  | [Main](https://addons.mozilla.org/firefox/addon/startpage-https-privacy-search) | [Link](https://startpage.com/eng/privacy-policy.html)
-| DuckDuckGo | https://duckduckgo.com | [Main](https://addons.mozilla.org/firefox/addon/duckduckgo-ssl) / [No JS](https://addons.mozilla.org/firefox/addon/duckduckgo-html) | [Link](https://duckduckgo.com/privacy)
+| Name       | Homepage                     | Firefox Addon                                                                   | Chrome Addon | Privacy Policy |
+|------------|------------------------------|---------------------------------------------------------------------------------|-----|----------------|
+| Startpage  | https://startpage.com        | [Main](https://addons.mozilla.org/firefox/addon/startpage-https-privacy-search) | N/A | [Link](https://startpage.com/eng/privacy-policy.html)
+| DuckDuckGo | https://duckduckgo.com       | [Main](https://addons.mozilla.org/firefox/addon/duckduckgo-ssl) / [No JS](https://addons.mozilla.org/firefox/addon/duckduckgo-html) | N/A | [Link](https://duckduckgo.com/privacy)
+| Disconnect | https://search.disconnect.me | [Main](https://addons.mozilla.org/addon/disconnect?src=external-product-icon) | [Link](https://chrome.google.com/webstore/detail/disconnect-search/hmobfennjmjnkdbklhcnnfbhfibedgkk?hl=en) | [Link](https://disconnect.me/privacy)
 
 ### Chrome Search Engine Settings
 
@@ -19,17 +20,6 @@ Today, about 3 years after Snowden's first revelation of NSA's mass surveillance
 |------------|----------------|-------------------------------------------|
 | Startpage  | startpage.com  | https://startpage.com/do/dsearch?query=%s |
 | DuckDuckGo | duckduckgo.com | https://duckduckgo.com/?q=%s              |
-
-
-### Disconnect
-
-- [Homepage](https://search.disconnect.me)
-
-- [Chrome Addon](https://chrome.google.com/webstore/detail/disconnect-search/hmobfennjmjnkdbklhcnnfbhfibedgkk?hl=en)
-
-- [Firefox Addon](https://addons.mozilla.org/addon/disconnect?src=external-product-icon)
-
-- [Privacy Policy](https://disconnect.me/privacy)
 
 ## End-to-End Encrypted Email (FOSS)
 
