@@ -12,7 +12,7 @@ Today, about 3 years after Snowden's first revelation of NSA's mass surveillance
 |------------|------------------------------|---------------------------------------------------------------------------------|-----|----------------|
 | Startpage  | https://startpage.com        | [Main](https://addons.mozilla.org/firefox/addon/startpage-https-privacy-search) | N/A | [Link](https://startpage.com/eng/privacy-policy.html)
 | DuckDuckGo | https://duckduckgo.com       | [Main](https://addons.mozilla.org/firefox/addon/duckduckgo-ssl) / [No JS](https://addons.mozilla.org/firefox/addon/duckduckgo-html) | N/A | [Link](https://duckduckgo.com/privacy)
-| Disconnect | https://search.disconnect.me | [Main](https://addons.mozilla.org/addon/disconnect?src=external-product-icon) | [Link](https://chrome.google.com/webstore/detail/disconnect-search/hmobfennjmjnkdbklhcnnfbhfibedgkk?hl=en) | [Link](https://disconnect.me/privacy)
+| Disconnect | https://search.disconnect.me | [Main](https://addons.mozilla.org/en-US/firefox/addon/disconnect-search/) | [Link](https://chrome.google.com/webstore/detail/disconnect-search/hmobfennjmjnkdbklhcnnfbhfibedgkk?hl=en) | [Link](https://disconnect.me/privacy)
 
 ### Chrome Search Engine Settings
 
