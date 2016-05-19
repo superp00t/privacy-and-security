@@ -123,7 +123,7 @@ Tails is a live operating system (meaning that it doesn't install to your comput
 ### Subgraph OS
 
 Subgraph OS: Adversary resistant computing platform.
-Subgraph is still in alpha: proceed with caution.
+**Subgraph is still in alpha: proceed with caution.**
 
 - [Homepage](https://subgraph.com/sgos/)
 
