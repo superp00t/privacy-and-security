@@ -100,6 +100,16 @@ Download for Linux ([DEB x86](https://www.libreoffice.org/download/libreoffice-f
 
 Download for Mac ([OSX 10.8+](https://www.libreoffice.org/download/libreoffice-fresh/?type=mac-x86_64))
 
+## Anonymity
+
+### Tor Browser
+
+Tor Browser is a customized version of Firefox that bounces your web traffic between random nodes in the Tor network. No single node knows both your IP address and the content of your traffic. This helps conceal your true identity from websites, and your browsing habits from your Internet Service Provider. When used correctly, Tor Browser can grant you a high degree of anonymity online.
+
+Download for Windows, Mac OS X, and Linux: https://www.torproject.org/download/download-easy.html
+
+For more information on how to use Tor safely, read these quick tips written by the Tor Project: https://www.torproject.org/download/download.html#warning
+
 ## Hardened Operating Systems
 
 Proprietary operating systems such as Mac OS X and Microsoft Windows are rife with tracking, security holes, and malware. Below is a list of operating systems that specialize in being secure and privacy-respecting.
