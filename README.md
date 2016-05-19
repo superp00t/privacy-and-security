@@ -99,3 +99,26 @@ Download for Linux ([DEB x86](https://www.libreoffice.org/download/libreoffice-f
 [RPM x32](https://www.libreoffice.org/download/libreoffice-fresh/?type=rpm-x86) | [RPM x64](https://www.libreoffice.org/download/libreoffice-fresh/?type=rpm-x86_64))
 
 Download for Mac ([OSX 10.8+](https://www.libreoffice.org/download/libreoffice-fresh/?type=mac-x86_64))
+
+## Hardened Operating Systems
+
+Proprietary operating systems such as Mac OS X and Microsoft Windows are rife with tracking, security holes, and malware. Below is a list of operating systems that specialize in being secure and privacy-respecting.
+
+### Tails
+
+Tails is a live operating system (meaning that it doesn't install to your computer's hard drive, and forgets everything you do when it retarts) that you can start on almost any computer from a DVD, USB stick, or SD card. It aims at preserving your privacy and anonymity. Everything you do on Tails is transparently routed over the Tor network. Tails comes with a variety of FOSS tools that help you keep your privacy intact.
+
+- [Homepage](https://tails.boum.org/)
+
+### Subgraph OS
+
+Subgraph OS: Adversary resistant computing platform.
+Subgraph is still in alpha: proceed with caution.
+
+- [Homepage](https://subgraph.com/sgos/)
+
+### Qubes OS
+
+Qubes OS provides reasonable security by isolating programs in virtualized containers.
+
+- [Homepage](https://www.qubes-os.org/)
